@@ -1,5 +1,6 @@
 Hello
 
+This project records the logs of a robot in real time using a python program and socket.io, stores the data in PostgreSQL and displays the data in a PERN full stack project 
 
 Fullstack
 1) This is PERN stack project
