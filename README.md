@@ -5,6 +5,8 @@ Fullstack
 1) This is PERN stack project
 2) pull repo
 3) install node modules in package.json
+4) cd server - npm run dev
+5) cd client - npm start
 
 PostgreSQL
 1) Database Name - loggingapp
